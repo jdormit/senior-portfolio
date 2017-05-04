@@ -36,7 +36,7 @@ Rust is a systems-level non-garbage-collected language, so I had to carefully ma
 ## Elm L-System Web App
 Repository: [https://github.com/jdormit/elm-l-system]
 
-This is a web application that lets users play around with Lindenmayer systems. L-systems are a type of [context-free grammar](https://en.wikipedia.org/wiki/Context-free_grammar) that can be used to represent fractals. The web application allows users to enter a set of L-system rules or choose from some presets, and iterate through the resulting fractal in their browser. I wrote it in the [Elm programming language](https://elm-lang.org), a functional programming language that compiles to JavaScript.
+This is a web application that lets users play around with Lindenmayer systems. L-systems are a type of [context-free grammar](https://en.wikipedia.org/wiki/Context-free_grammar) that can be used to represent fractals. The web application allows users to enter a set of L-system rules or choose from some presets, and iterate through the resulting fractal in their browser. I wrote it in the [Elm programming language](http://elm-lang.org/), a functional programming language that compiles to JavaScript.
 
 This project involved some fairly complicated recursive logic to calculate and render the fractal shapes, as well as implementing a parser for the L-system grammar language. These significant challenges boosted my problem solving skills quite a bit. The Elm language has a huge focus on [good architecture practices](https://guide.elm-lang.org/architecture/), so I learned a lot about the concepts and techniques of software design as well.
 
