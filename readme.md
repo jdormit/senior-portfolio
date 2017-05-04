@@ -20,7 +20,7 @@ The Livre EBook Reader is a desktop app that parses and displays `.epub`-formatt
 Working with other developers on an open-source project provided excellent project experience working in a group. This project also expanded my knowledge about the concepts and techniques of software design, especially regarding turning source code into a working desktop applications that users can use without any hassle.
 
 ## LittleScheme
-Repository: [https://github.com/jdormit/littlescheme]
+Repository: [https://github.com/jdormit/little-scheme]
 
 LittleScheme is an interpreter for the Scheme programming language, written in Scala. This was a group project for my Programming Languages class. The interpreter knows how to handle a large subset of the Scheme language, including definitions, let-bindings, lambdas, and arithmetic operations. From this project, I learned about parsing, syntax trees, macro expansions, functional programming, and other high-level programming languages concepts.
 
