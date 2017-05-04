@@ -1,8 +1,11 @@
 # Senior Portfolio
 > Jeremy Dormitzer's senior portfolio
 
+Here are some projects I've worked on during my college career.
+
 ## Spark Collaborative Editor
 Web app repository: [https://github.com/sparkeditor/webapp]
+
 Server repository: [https://github.com/sparkeditor/backend]
 
 The Spark collaborative editor is a web-based code editor that enables real-time collaboration - multiple users can edit the same file simultaneously, Google-Docs-style. The editor is a static web application written with the Vue.js web framework. The server is written using Node.js. I used the [`Socket.io`](https://socket.io) WebSocket library to handle real-time network communication and the [`Ace`](https://ace.c9.io) embedded code editor to handle the text editing part of the application.
